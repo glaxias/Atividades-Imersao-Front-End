@@ -1,0 +1,27 @@
+body {
+    background-color: #FA8BFF;
+    background-image: linear-gradient(45deg, #FA8BFF 25%, #2BD2FF 52%, #2BFF88 90%);
+}
+
+.box {
+    background-color: #08598f;
+    background-image: radial-gradient(#08598f, #910863);
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+    padding: 50px;
+}
+
+.box-2 {
+    background-color: #888607;
+    background-image: radial-gradient(#888607, #880b07);
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+    padding: 50px;
+}
+
+.titulo {
+    color: #44abeb;
+    font-size: 111px;
+}

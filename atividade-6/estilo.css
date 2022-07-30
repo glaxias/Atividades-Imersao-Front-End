@@ -1,0 +1,38 @@
+body {
+    background-color: #f3bccc;
+    background-image: url("background-a.jpg");
+    background-position: center center;
+    background-size: 100px 100px;
+}
+
+.box {
+    background-color: #131644;
+    background-image: url("background-div-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height: 500px;
+    margin: 30px;
+    padding: 50px;
+}
+
+.box-2 {
+    background-color: #0c2d5c;
+    background-image: url("background-div-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height: 500px;
+    margin: 30px;
+    padding: 50px;
+}
+
+.titulo {
+    color:#eb7dac;
+    font-size: 50px;
+}
+
+.paragrafo {
+    color: #ccc;
+    font-size: 30px;
+}
