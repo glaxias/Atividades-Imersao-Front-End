@@ -1,0 +1,35 @@
+body {
+    background-color: #0A1016;
+}
+
+.bloco {
+    background-color: #029586;
+    width: 50%;
+    height: 500px;
+}
+
+.titulo {
+    color: #FFBF00;
+    font-size: 50px;
+}
+
+.paragrafo {
+    color: #eebbcc;
+    font-size: 20px;
+}
+
+.sub-bloco {
+    width: 25%;
+    height: 200px;
+    background-color: #000055;
+}
+
+.titulo1 {
+    color: #ff239e;
+    font-size: 23px;
+}
+
+.paragrafo1 {
+    color: #fff;
+    font-size: 15px;
+}
