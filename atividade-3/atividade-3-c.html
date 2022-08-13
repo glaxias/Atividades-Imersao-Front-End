@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <title>Atividade 3 C</title>
+    </head>
+    <body>
+        <h1>Chimera</h1>
+        <p> Faça login para acessar nossos cursos</p>
+        <form>
+            <div>
+                <label>Nome</label>
+                <input type="text" name="nome" id="nome" placeholder="Nome de cliente" required />
+            </div>
+            <div>
+                <label>Idade</label>
+                <input type="number" name="idade" id="idade" required />
+            </div>
+            <div>
+                <label>E-mail</label>
+                <input type="email" name="email" id="email" placeholder="seuemail@seuprovedor.com" required />
+            </div>
+            <div>
+                <label>Senha</label>
+                <input type="password" name="senha" id="senha" required />
+            </div>
+            
+            <div>
+                <input type="radio" name="estudante" value="sim"  required/>
+                <label>Sou estudante</label>
+                <input type="radio" name="estudante" value="nao" required/>
+                <label>Ainda não sou estudante</label>
+            </div>
+            <div>
+                <input type="checkbox" name="termos_de_uso" required />
+                <labe>Aceito os termos de uso</labe>
+            </div>
+            <div>
+                <button type="submit">Enviar</button>
+            </div>
+        </form>
+    </body>
+</html>
